@@ -1,4 +1,3 @@
-MotorMarket
 MotorMarket est une plateforme d'achat et de vente de voitures et motos en ligne, offrant des fonctionnalités complètes de gestion des factures et paiements. Développé avec Angular pour le front-end et Spring Boot pour le back-end, MotorMarket assure une expérience utilisateur fluide et sécurisée.
 
 Installation
